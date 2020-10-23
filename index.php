@@ -54,7 +54,7 @@
             <nav class="site-navigation position-relative text-right" role="navigation">
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="?page=home/index.php" class="nav-link">Home</a></li>
+                <li><a href="?page=marketplace/home/index.php" class="nav-link">Home</a></li>
                 <li><a href="index.html#home-section" class="nav-link">Keranjang</a></li>
                 <li><a href="index.html#home-section" class="nav-link">Masuk</a></li>
               </ul>
@@ -79,7 +79,6 @@
             <div class="col-md-6 mt-lg-5 text-center">
               <h1 class="text-shadow">SEPATU IMPORT</h1>
               <p class="mb-5 text-shadow">Tampil trendi dengan sepatu kekinian yang membuat semua mata tertuju kepada anda</p>
-              <p><a href="#" target="_blank" class="btn btn-primary px-5 py-3">Get Started</a></p>
               
             </div>
           </div>
@@ -94,125 +93,7 @@
   </div>      
 
 
-  <div class="site-section" id="properties-section">
-      <div class="container">
-        <div class="row large-gutters">
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5 ">
-            <div class="ftco-media-1">
-              <div class="ftco-media-1-inner">
-                <a href="detail.html" class="d-inline-block mb-4"><img src="images/sepatu.jpg" alt="FImageo" class="img-fluid"></a>
-                <div class="ftco-media-details">
-                  <h3>SEPATU WANITA</h3>
-                  <strong>RP. 200.000</strong>
-                </div>
-  
-              </div> 
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5 ">
-              <div class="ftco-media-1">
-                  <div class="ftco-media-1-inner">
-                    <a href="detail.html" class="d-inline-block mb-4"><img src="images/sepatu1.jpeg" alt="Image" class="img-fluid"></a>
-                    <div class="ftco-media-details">
-                      <h3>SEPATU WANITA</h3>
-                      <strong>RP. 210.000</strong>
-                    </div>
-      
-                  </div> 
-                </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5 ">
-              <div class="ftco-media-1">
-                  <div class="ftco-media-1-inner">
-                    <a href="detail.html" class="d-inline-block mb-4"><img src="images/sepatu2.jpeg" alt="Image" class="img-fluid"></a>
-                    <div class="ftco-media-details">
-                      <h3>SEPATU WANITA</h3>
-                      <strong>RP.200.000</strong>
-                    </div>
-      
-                  </div> 
-                </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5 ">
-              <div class="ftco-media-1">
-                <div class="ftco-media-1-inner">
-                  <a href="detail.html" class="d-inline-block mb-4"><img src="images/sepatu3.jpeg" alt="Image" class="img-fluid"></a>
-                  <div class="ftco-media-details">
-                    <h3>SEPATU WANITA</h3>
-                    <strong>RP.220.000</strong>
-                  </div>
-    
-                </div> 
-              </div>
-            </div>
-            <div class="col-md-6 col-lg-4 mb-5 mb-lg-5 ">
-                <div class="ftco-media-1">
-                    <div class="ftco-media-1-inner">
-                      <a href="detail.html" class="d-inline-block mb-4"><img src="images/sepatu7.jpeg" alt="Image" class="img-fluid"></a>
-                      <div class="ftco-media-details">
-                        <h3>SEPATU WANITA</h3>
-                        <strong>RP.210.000</strong>
-                      </div>
-        
-                    </div> 
-                  </div>
-            </div>
-            <div class="col-md-6 col-lg-4 mb-5 mb-lg-5 ">
-                <div class="ftco-media-1">
-                    <div class="ftco-media-1-inner">
-                      <a href="detail.html" class="d-inline-block mb-4"><img src="images/sepatu5.jpg" alt="Image" class="img-fluid"></a>
-                      <div class="ftco-media-details">
-                        <h3>SEPATU WANITA</h3>
-                        <strong>RP.200.000</strong>
-                      </div>
-        
-                    </div> 
-                  </div>
-            </div>
-
-        </div>
-      </div>
-    </div>
-    <section class="site-section bg-light bg-image" id="contact-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-12 text-center">
-            <h2 class="section-title mb-3">Hubungi kami segera</h2>
-          </div>
-        </div>
-          <div class="col-md-5">
-            
-            <div class="p-4 mb-3 bg-white">
-              <p class="mb-0 font-weight-bold">Alamat</p>
-              <p class="mb-4">Jl. Pulau Seribu no.29, Kauman, Ketapang</p>
-
-              <p class="mb-0 font-weight-bold">Whatsapp</p>
-              <p class="mb-4"><a href="#">0895631176817</a></p>
-
-            </div>
-            
-          </div>
-        </div>
-      </div>
-    </section>
-
-    
-    <footer class="site-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8">
-            <div class="row">
-              
-              
-            </div>
-          </div>
-          
-        </div>
-      </div>
-    </footer>
-
-  </div> <!-- .site-wrap -->
+   <!-- .site-wrap -->
 
   <a href="#top" class="gototop"><span class="icon-angle-double-up"></span></a> 
 
